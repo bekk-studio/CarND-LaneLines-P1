@@ -636,10 +636,10 @@ HTML("""
 
 
 
-
+<figure class="video_container">
 <video width="960" height="540" controls>
   <source src="extra.mp4">
 </video>
-
+</figure>
 
 
