@@ -522,13 +522,7 @@ HTML("""
 ```
 
 
-
-
-
-<video width="960" height="540" controls>
-  <source src="white.mp4">
-</video>
-
+<img src="white.gif" />
 
 
 
@@ -566,14 +560,7 @@ HTML("""
 """.format(yellow_output))
 ```
 
-
-
-
-
-<video width="960" height="540" controls>
-  <source src="yellow.mp4">
-</video>
-
+<img src="yellow.gif" />
 
 
 
@@ -633,23 +620,4 @@ HTML("""
 """.format(challenge_output))
 ```
 
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="images/output_4_2">
-    <source src="extra.mp4" type="video/mp4">
-  </video>
-</figure>
-
-
-
-<figure class="video_container">
-<video width="960" height="540" controls>
-  <source src="extra.mp4">
-</video>
-</figure>
-
-
-<iframe src="https://www.youtube.com/embed/yrRPLBYiiEc"></iframe>
-
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="extra.gif" />
