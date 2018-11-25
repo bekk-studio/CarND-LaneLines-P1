@@ -634,6 +634,12 @@ HTML("""
 ```
 
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="images/output_4_2">
+    <source src="extra.mp4" type="video/mp4">
+  </video>
+</figure>
+
 
 
 <figure class="video_container">
@@ -641,5 +647,6 @@ HTML("""
   <source src="extra.mp4">
 </video>
 </figure>
+
 
 
